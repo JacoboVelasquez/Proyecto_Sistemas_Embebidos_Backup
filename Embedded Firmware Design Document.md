@@ -3,6 +3,9 @@
 # Diagrama de bloques del sistema embebido:
 ![alt text](32.jpg)
 
+# Esquemático del circuito:
+
+
 # Arquitectura de Firmware
 
 El firmware del sistema embebido fue diseñado utilizando una arquitectura modular por capas, permitiendo separar la lógica de control, las comunicaciones, el manejo de hardware y la presentación de información. Esta estructura facilita la mantenibilidad, escalabilidad y depuración del sistema.
