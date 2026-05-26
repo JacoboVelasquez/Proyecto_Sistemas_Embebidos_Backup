@@ -4,7 +4,7 @@
 ![alt text](32.jpg)
 
 # Esquemático del circuito:
-
+![alt text](Esquematico.jpeg)
 
 # Arquitectura de Firmware
 
