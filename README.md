@@ -4,7 +4,7 @@
 
 - Jacobo Velásquez Durango
 - Orlando Velásquez Granda
-- María José Rojas mosquera
+- María José Rojas Mosquera
 
 ## Sistema Embebido para Automatización de un Galpón Avícola
 1. *Introducción*:
